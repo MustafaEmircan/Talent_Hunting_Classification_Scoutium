@@ -49,7 +49,6 @@ which contains the final decision labels.
 3. Run the notebooks to explore the dataset and train the model.
 
 ## 📁 Repository Structure
-- `data/`: Contains the dataset files.
 - `notebooks/`: Jupyter notebooks for data exploration and model training.
 - `models/`: Saved models and related files.
 - `README.md`: Project overview and instructions.
@@ -59,4 +58,4 @@ If you have any questions or feedback, feel free to reach out via GitHub issues 
 
 ---
 
-🔍 **Note:** This project is for educational purposes and is based on a fictional dataset provided by Scoutium.
+🔍 **Note:** This dataset belongs to Scoutium and Miuul companies, so I am not sharing it.
